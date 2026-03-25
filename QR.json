@@ -1,0 +1,14 @@
+[
+  {
+    "qr_id": 1,
+    "qr_data": "https://your-dynamic-link.com/promo-2026-1"
+  },
+  {
+    "qr_id": 2,
+    "qr_data": "https://your-dynamic-link.com/promo-2026-2"
+  },
+  {
+    "qr_id": 3,
+    "qr_data": "https://your-dynamic-link.com/promo-2026-3"
+  }
+]
