@@ -8,10 +8,10 @@
   },
   {
     "qr_id": 2,
-    "promo_url": "https://your-dynamic-link.com/promo-2026-2"
+    "qr_data": "https://erasafe.live/es.apk"
   },
   {
     "qr_id": 3,
-    "qr_data": "https://your-dynamic-link.com/promo-2026-3"
+    "qr_data": "https://erasafe.live/V3/EraSafe%203.0.apk"
   }
 ]
