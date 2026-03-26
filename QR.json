@@ -2,7 +2,7 @@
   {
     "qr_id": 1,
     "component_name": "com.afwsamples.testdpc/com.afwsamples.testdpc.DeviceAdminReceiver",
-    "download_location": "https://testdpc-latest-apk.appspot.com",
+    "download_location": "https://storage.googleapis.com/ozo130224/testDPC.apk",
     "signature_checksum": "gJD2YwtOiWJHkSMkkIfLRlj-quNqG1fb6v100QmzM9w=",
     "leave_apps_enabled": true
   },
