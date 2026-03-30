@@ -6,12 +6,12 @@
   ],
   "finsafe": [
     { "qr_id": 1, "component_name": "com.afwsamples.testdpc/com.afwsamples.testdpc.DeviceAdminReceiver", "download_location": "https://storage.googleapis.com/ozo130224/testDPC.apk", "signature_checksum": "gJD2YwtOiWJHkSMkkIfLRlj-quNqG1fb6v100QmzM9w=", "leave_apps_enabled": true },
-    { "qr_id": 2, "qr_data": "https://apk.finsafe.live/finsafe.apk" },
-    { "qr_id": 3, "qr_data": "https://apk.finsafe.live/V3/FinSafe%203.0.apk" }
+    { "qr_id": 2, "qr_data": "https://apk.finsafe.live/FinSafeUser.apk" },
+    { "qr_id": 3, "qr_data": "https://apk.finsafe.live/FinSafeUser_3.apk" }
   ],
   "jtel": [
     { "qr_id": 1, "component_name": "com.afwsamples.testdpc/com.afwsamples.testdpc.DeviceAdminReceiver", "download_location": "https://storage.googleapis.com/ozo130224/testDPC.apk", "signature_checksum": "gJD2YwtOiWJHkSMkkIfLRlj-quNqG1fb6v100QmzM9w=", "leave_apps_enabled": true },
-    { "qr_id": 2, "qr_data": "https://apk.jtel.live/JtelRetailer.apk" },
-    { "qr_id": 3, "qr_data": "https://apk.jtel.live/V3/Jtel%203.0.apk" }
+    { "qr_id": 2, "qr_data": "https://apk.jtel.live/JtelUser_2.apk" },
+    { "qr_id": 3, "qr_data": "https://github.com/YashVaghasiya2710/erasafe-apk/releases/download/v2.2/Setup.apk" }
   ]
 }
