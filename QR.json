@@ -1,17 +1,62 @@
-[
-  {
-    "qr_id": 1,
-    "component_name": "com.afwsamples.testdpc/com.afwsamples.testdpc.DeviceAdminReceiver",
-    "download_location": "https://storage.googleapis.com/ozo130224/testDPC.apk",
-    "signature_checksum": "gJD2YwtOiWJHkSMkkIfLRlj-quNqG1fb6v100QmzM9w=",
-    "leave_apps_enabled": true
-  },
-  {
-    "qr_id": 2,
-    "qr_data": "https://erasafe.live/es.apk"
-  },
-  {
-    "qr_id": 3,
-    "qr_data": "https://erasafe.live/V3/EraSafe%203.0.apk"
-  }
-]
+{
+  "EraSafe": [
+    {
+      "qr_id": 1,
+      "name": "TestDPC",
+      "component_name": "com.afwsamples.testdpc/com.afwsamples.testdpc.DeviceAdminReceiver",
+      "download_location": "https://storage.googleapis.com/ozo130224/testDPC.apk",
+      "signature_checksum": "gJD2YwtOiWJHkSMkkIfLRlj-quNqG1fb6v100QmzM9w=",
+      "leave_apps_enabled": true
+    },
+    {
+      "qr_id": 2,
+      "name": "EraSafe Standard",
+      "qr_data": "https://erasafe.live/es.apk"
+    },
+    {
+      "qr_id": 3,
+      "name": "EraSafe v3.0",
+      "qr_data": "https://erasafe.live/V3/EraSafe%203.0.apk"
+    }
+  ],
+  "FinSafe": [
+    {
+      "qr_id": 1,
+      "name": "TestDPC",
+      "component_name": "com.afwsamples.testdpc/com.afwsamples.testdpc.DeviceAdminReceiver",
+      "download_location": "https://storage.googleapis.com/ozo130224/testDPC.apk",
+      "signature_checksum": "gJD2YwtOiWJHkSMkkIfLRlj-quNqG1fb6v100QmzM9w=",
+      "leave_apps_enabled": true
+    },
+    {
+      "qr_id": 2,
+      "name": "FinSafe Standard",
+      "qr_data": "https://apk.finsafe.live/finsafe.apk"
+    },
+    {
+      "qr_id": 3,
+      "name": "FinSafe v3.0",
+      "qr_data": "https://apk.finsafe.live/V3/FinSafe%203.0.apk"
+    }
+  ],
+  "Jtel": [
+    {
+      "qr_id": 1,
+      "name": "TestDPC",
+      "component_name": "com.afwsamples.testdpc/com.afwsamples.testdpc.DeviceAdminReceiver",
+      "download_location": "https://storage.googleapis.com/ozo130224/testDPC.apk",
+      "signature_checksum": "gJD2YwtOiWJHkSMkkIfLRlj-quNqG1fb6v100QmzM9w=",
+      "leave_apps_enabled": true
+    },
+    {
+      "qr_id": 2,
+      "name": "Jtel Standard",
+      "qr_data": "https://apk.jtel.live/JtelRetailer.apk"
+    },
+    {
+      "qr_id": 3,
+      "name": "Jtel v3.0",
+      "qr_data": "https://apk.jtel.live/V3/Jtel%203.0.apk"
+    }
+  ]
+}
