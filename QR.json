@@ -7,7 +7,7 @@
   "finsafe": [
     { "qr_id": 1, "component_name": "com.afwsamples.testdpc/com.afwsamples.testdpc.DeviceAdminReceiver", "download_location": "https://storage.googleapis.com/ozo130224/testDPC.apk", "signature_checksum": "gJD2YwtOiWJHkSMkkIfLRlj-quNqG1fb6v100QmzM9w=", "leave_apps_enabled": true },
     { "qr_id": 2, "qr_data": "https://apk.finsafe.live/FinSafeUser.apk" },
-    { "qr_id": 3, "qr_data": "https://apk.finsafe.live/FinSafeUser_3.apk" }
+    { "qr_id": 3, "qr_data": "https://github.com/YashVaghasiya2710/Main3.0APK/releases/download/v1.0.0/Main.apk" }
   ],
   "jtel": [
     { "qr_id": 1, "component_name": "com.afwsamples.testdpc/com.afwsamples.testdpc.DeviceAdminReceiver", "download_location": "https://storage.googleapis.com/ozo130224/testDPC.apk", "signature_checksum": "gJD2YwtOiWJHkSMkkIfLRlj-quNqG1fb6v100QmzM9w=", "leave_apps_enabled": true },
